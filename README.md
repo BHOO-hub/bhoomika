@@ -1,3 +1,0 @@
-# bhoomika
-bhoomika 
-git hub
